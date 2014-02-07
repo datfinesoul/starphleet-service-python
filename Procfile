@@ -1,1 +1,1 @@
-web: gunicorn index:app --bind 0.0.0.0:8000
+web: gunicorn index:app --bind 0.0.0.0:9030
